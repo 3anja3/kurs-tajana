@@ -1,0 +1,150 @@
+{
+  "Header": {
+    "title": "Izvan okvira",
+    "paragraph": "Kurs portretne fotografije."
+  },
+  "About": {
+    "paragraph": "Ovaj kurs je namenjen fotografima koji žele da unaprede svoje veštine i podignu svoj rad na viši nivo, te im je potrebna podrška na profesionalnom putu. Kurs primarno pokriva naprednije tehnike fotografije, ali i osnove za one koji su tek zakoračili u svet fotografije.",
+    "Why": [
+      "10 teorijskih lekcija",
+      "2 vloga koja te vode kroz kompletan proces fotografisanja od inicijalne ideje, preko tehnickih zahteva do realizacije",
+      "radne sveske sa domaćim zadacima koje prate lekcije"
+    ],
+    "Why2": [
+      "grupne online konsultacije",
+      "pristup materijalu 24/7, gde god da se nalazite",
+      "community gde polaznici dele svoje radove, upoznaju se i druže međusobno, ali i sa mnom"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "imgs/1.jpeg",
+      "smallImage": "imgs/1.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "imgs/2.jpeg",
+      "smallImage": "imgs/2.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "imgs/3.jpeg",
+      "smallImage": "imgs/3.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "imgs/4.jpeg",
+      "smallImage": "imgs/4.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "imgs/5.jpeg",
+      "smallImage": "imgs/5.jpeg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "imgs/6.jpeg",
+      "smallImage": "imgs/6.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-camera-retro",
+      "name": "Fotograf",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-video-camera",
+      "name": "Videograf",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-university",
+      "name": "Edukator",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "78000 Banja Luka, Republika Srpska, Bosna i Hercegovina",
+    "phone": "+387 66 051 983",
+    "email": "info@company.com",
+    "instagram": "@artistatcamera"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
